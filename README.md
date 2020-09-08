@@ -1,10 +1,9 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Instagram replica
 
-Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
+This is a simple replica of Instagram's home page on desktop. 
 
-### Os requisitos são:
+## Installation
+No instalation needed, this project was created entirely in HTML and CSS.
 
-* [HTML básico](https://www.w3schools.com/html/)
-* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-
-## 🚀 Let's code! 🚀
+## Usage
+None. This is only an exercise.
