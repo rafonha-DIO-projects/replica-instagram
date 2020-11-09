@@ -8,7 +8,8 @@ Exemplo de aplicação: https://rafonha-dio-projects.github.io/replica-instagram
 - A aplicação deve ser responsiva, ou seja, se adaptar a diferentes tamanhos de telas;
 - Você não deve pode usar qualquer frameworks de CSS, é preciso fazer o estilo e a responsividade na mão. 
 
-## Aprimore a sua aplicação! Algumas ideias:
+### Aprimore a sua aplicação! Algumas ideias:
 - Faça os links funcionarem (remover conta, alternar conta, inscreva-se, etc.);
 - Crie o formulário para se inscrever no Instagram e salve as informações de forma simplificada (.txt ou .json);
-- Redirecione a conta para uma réplica da página de rolamento de posts usando uma API do Instagram.
+- Redirecione a conta para uma réplica da página de rolamento de posts;
+- Crie uma API de teste e adicione as informações usando async / await.
